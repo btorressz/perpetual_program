@@ -43,3 +43,17 @@ devnet:(https://explorer.solana.com/address/6QZ2P8VX7ENknVJJ4Tgm5ZbVAzCiL6daW349
 
 - Ensures long-term solvency of the protocol.
 
+## Events
+
+- PositionOpened – Emitted when a position is opened.
+
+- PositionClosed – Emitted when a position is closed.
+
+- CollateralDeposited – Emitted when collateral is added.
+
+- CollateralWithdrawn – Emitted when collateral is withdrawn.
+
+- PositionLiquidated – Emitted upon liquidation of a position.
+
+- FundingRateUpdated – Emitted when the funding rate changes.
+
